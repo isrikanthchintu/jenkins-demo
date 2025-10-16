@@ -5,5 +5,6 @@ public class Student {
     public Student(Long id, String name) {
         this.id = id;
         this.name = name;
+        System.out.println("hello");
     }
 }
